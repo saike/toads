@@ -34,7 +34,7 @@
                       </td>
                       <td style="width: 100%;">
                         <span data-ng-if="toad.id" class="toad_title t_ellps">[[ toad.title ]]</span>
-                        <input data-ng-if="!toad.id" class="border_box toad_title_input" style="width: 100%;" type="text" data-ng-model="toad.title"/>
+                        <input data-ng-if="!toad.id" class="border_box toad_title_input" style="width: 100%;" type="text" data-ng-model="toad.title" data-click-select/>
                       </td>
                       <td>
                         <button style="display: block;" data-ng-show="toad.video && toad.audio && !toad.id" type="button" class="btn btn_large btn_icon success" data-ng-click="create_toad();">

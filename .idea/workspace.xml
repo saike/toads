@@ -35,7 +35,32 @@
       <file leaf-file-name="swamp.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/html/swamp/swamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="54" selection-start="475" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="690">
+            <state line="10" column="69" selection-start="333" selection-end="333" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="660">
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toad.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/html/toad/toad.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="166" selection-start="1823" selection-end="1823" vertical-scroll-proportion="0.43722942" vertical-offset="237" max-vertical-offset="1680">
+              <folding>
+                <element signature="n#style#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buttons.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/core/buttons.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="21.833334" vertical-offset="659" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
@@ -44,7 +69,7 @@
       <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/app/config/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1545">
+            <state line="14" column="18" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1545">
               <folding />
             </state>
           </provider>
@@ -59,37 +84,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generic.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/core/generic.less">
+      <file leaf-file-name="swamp.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/components/swamp.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="1" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="735">
+            <state line="112" column="0" selection-start="1722" selection-end="1722" vertical-scroll-proportion="-20.916666" vertical-offset="1178" max-vertical-offset="2235">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigator.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="videotoad.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app/videotoad.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="28" selection-start="3500" selection-end="3500" vertical-scroll-proportion="0.0" vertical-offset="1730" max-vertical-offset="2505">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigator.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/html/swamp/navigator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="175" selection-end="175" vertical-scroll-proportion="0.12747875" vertical-offset="0" max-vertical-offset="706">
+            <state line="6" column="9" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toad.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/components/toad.less">
+      <file leaf-file-name="users.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app/users/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="224" column="22" selection-start="3849" selection-end="3849" vertical-scroll-proportion="0.0" vertical-offset="3360" max-vertical-offset="3525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="video_search.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/components/video_search.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="15" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1620">
+            <state line="14" column="22" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1170">
               <folding />
             </state>
           </provider>
@@ -112,19 +137,14 @@
         <option value="$PROJECT_DIR$/public/css/app.less" />
         <option value="$PROJECT_DIR$/public/js/vendor/scrollbar.js" />
         <option value="$PROJECT_DIR$/public/js/app/swamp/swamp.js" />
-        <option value="$PROJECT_DIR$/public/html/swamp/swamp.html" />
         <option value="$PROJECT_DIR$/public/css/core/mixins.less" />
         <option value="$PROJECT_DIR$/public/html/toad.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/css/components/navigator.less" />
-        <option value="$PROJECT_DIR$/public/html/users/profile.html" />
         <option value="$PROJECT_DIR$/cloud/main.js" />
-        <option value="$PROJECT_DIR$/public/js/app/users/users.js" />
         <option value="$PROJECT_DIR$/public/css/components/video_search.less" />
-        <option value="$PROJECT_DIR$/public/js/app/videotoad.js" />
         <option value="$PROJECT_DIR$/public/html/video_search.html" />
         <option value="$PROJECT_DIR$/public/css/core/buttons.less" />
-        <option value="$PROJECT_DIR$/public/html/toad/toad.html" />
         <option value="$PROJECT_DIR$/public/css/components/toad.less" />
         <option value="$PROJECT_DIR$/public/js/app/api/parse.js" />
         <option value="$PROJECT_DIR$/public/css/core/forms.less" />
@@ -132,7 +152,12 @@
         <option value="$PROJECT_DIR$/public/css/core/layout.less" />
         <option value="$PROJECT_DIR$/public/css/core/generic.less" />
         <option value="$PROJECT_DIR$/public/css/components/profile.less" />
+        <option value="$PROJECT_DIR$/public/js/app/users/users.js" />
+        <option value="$PROJECT_DIR$/public/html/users/profile.html" />
+        <option value="$PROJECT_DIR$/public/html/swamp/swamp.html" />
         <option value="$PROJECT_DIR$/public/css/components/swamp.less" />
+        <option value="$PROJECT_DIR$/public/js/app/videotoad.js" />
+        <option value="$PROJECT_DIR$/public/html/toad/toad.html" />
       </list>
     </option>
   </component>
@@ -167,6 +192,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,9 +211,212 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videotoad" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,6 +444,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -225,23 +462,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -266,18 +495,18 @@
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3590844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36409155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -327,15 +556,15 @@
     <entry file="file://$PROJECT_DIR$/public/html/swamp/swamp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="164" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="750">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="840">
-          <folding />
-        </state>
+        <state line="45" column="0" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/core/layout.less">
@@ -392,22 +621,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="3" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
+        <state line="22" column="3" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app/api/parse.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="19" selection-start="710" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="1470" max-vertical-offset="2565">
-          <folding />
-        </state>
+        <state line="27" column="19" selection-start="710" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="1470" max-vertical-offset="2565" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/html/swamp/swamp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="34" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="675">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -490,13 +717,6 @@
         <state line="9" column="31" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/swamp/swamp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="27" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1155">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/components/navigator.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="19" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="495">
@@ -506,9 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="17" selection-start="1492" selection-end="1495" vertical-scroll-proportion="0.99858356" vertical-offset="0" max-vertical-offset="855">
-          <folding />
-        </state>
+        <state line="47" column="17" selection-start="1492" selection-end="1495" vertical-scroll-proportion="0.99858356" vertical-offset="0" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/html/toad/show.html">
@@ -518,77 +736,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="3" selection-start="797" selection-end="797" vertical-scroll-proportion="0.53424656" vertical-offset="0" max-vertical-offset="730">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/users/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="1170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/html/users/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="655" selection-end="655" vertical-scroll-proportion="0.48394495" vertical-offset="29" max-vertical-offset="765">
-          <folding>
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app/videotoad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="91" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="2325">
-          <folding />
-        </state>
+        <state line="26" column="3" selection-start="797" selection-end="797" vertical-scroll-proportion="0.53424656" vertical-offset="0" max-vertical-offset="730" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/html/video_search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="79" selection-start="768" selection-end="768" vertical-scroll-proportion="0.44617563" vertical-offset="0" max-vertical-offset="706">
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/components/video_search.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="15" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1620">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/core/buttons.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.10481586" vertical-offset="209" max-vertical-offset="1185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/html/toad/toad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="87" selection-start="1728" selection-end="1744" vertical-scroll-proportion="-12.625" vertical-offset="237" max-vertical-offset="1680">
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/components/toad.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="22" selection-start="3849" selection-end="3849" vertical-scroll-proportion="0.0" vertical-offset="3360" max-vertical-offset="3525">
-          <folding />
-        </state>
+        <state line="21" column="79" selection-start="768" selection-end="768" vertical-scroll-proportion="0.44617563" vertical-offset="0" max-vertical-offset="706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/core/forms.less">
@@ -600,9 +753,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app/api/parse.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="58" selection-start="3195" selection-end="3195" vertical-scroll-proportion="0.0" vertical-offset="1025" max-vertical-offset="2610">
-          <folding />
-        </state>
+        <state line="98" column="58" selection-start="3195" selection-end="3195" vertical-scroll-proportion="0.0" vertical-offset="1025" max-vertical-offset="2610" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app/config/routes.js">
@@ -626,30 +777,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/core/generic.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="1" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/components/profile.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="16" selection-start="371" selection-end="371" vertical-scroll-proportion="-10.041667" vertical-offset="179" max-vertical-offset="885">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/html/swamp/swamp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="54" selection-start="475" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/components/swamp.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="5" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.30028328" vertical-offset="1393" max-vertical-offset="2145">
           <folding />
         </state>
       </provider>
@@ -663,8 +793,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/html/swamp/navigator.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="175" selection-end="175" vertical-scroll-proportion="0.12747875" vertical-offset="0" max-vertical-offset="706">
+        <state line="6" column="9" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/html/users/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="28" selection-start="1246" selection-end="1250" vertical-scroll-proportion="0.36649215" vertical-offset="355" max-vertical-offset="765">
+          <folding>
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/components/toad.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="22" selection-start="3849" selection-end="3849" vertical-scroll-proportion="0.6325167" vertical-offset="3076" max-vertical-offset="3525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/components/video_search.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="15" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/users/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/core/generic.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="1" selection-start="583" selection-end="583" vertical-scroll-proportion="0.80932206" vertical-offset="263" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/swamp/swamp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="27" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1155">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/core/buttons.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="21.833334" vertical-offset="659" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/components/swamp.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="1722" selection-end="1722" vertical-scroll-proportion="-20.916666" vertical-offset="1178" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/videotoad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="28" selection-start="3500" selection-end="3500" vertical-scroll-proportion="0.0" vertical-offset="1730" max-vertical-offset="2505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/html/swamp/swamp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="69" selection-start="333" selection-end="333" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="660">
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/html/toad/toad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="166" selection-start="1823" selection-end="1823" vertical-scroll-proportion="0.43722942" vertical-offset="237" max-vertical-offset="1680">
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

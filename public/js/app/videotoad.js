@@ -144,6 +144,18 @@
           });
         }
       };
+    })
+
+    .directive('clickSelect', function(){
+      return {
+        restrict: 'A',
+        scope: false,
+        link: function(scope, elm){
+          elm.on('click', function(){
+            elm[0].select();
+          });
+        }
+      };
     });
 
 }());
