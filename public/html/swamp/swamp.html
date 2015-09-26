@@ -1,0 +1,41 @@
+<div class="swamp_wrapper">
+
+  <div class="search_wrapper toad_form">
+    <form data-ng-submit="get_list()">
+      <table>
+        <tr>
+          <td style="width: 100%">
+            <div>
+              <input type="text" data-ng-model="search.query"/>
+            </div>
+          </td>
+          <td>
+            <div>
+              <button class="btn btn_large search_btn" type="submit" style="min-width: 150px;">SEARCH</button>
+              <button class="btn btn_large search_icon" type="submit" style="font-size: 30px; padding: 9px 15px;"><i class="ion-search"></i></button>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </div>
+
+  <ul class="toad_list">
+    <li data-ng-repeat="toad in toads" class="toad_item" data-ng-click="watch_toad(toad)">
+      <a href="[[ 'toad.show.urls[0]' | route:{ id: toad.id } ]]">
+        <div class="toad_item_inner">
+          <p class="t_ellps toad_title">
+            [[ toad.title ]]
+          </p>
+          <div class="toad_thumb">
+            <div class="toader_info t_ellps">
+              <img data-ng-show="toad.author.picture" data-ng-src="[[ toad.author.picture ]]" alt="[[ toad.author.name ]]"/>
+              <span>[[ toad.author.name || 'Anonymous' ]]</span>
+            </div>
+            <img data-ng-src="[[ toad.video.pic ]]" alt="[[ toad.title ]]"/>
+          </div>
+        </div>
+      </a>
+    </li>
+  </ul>
+</div>

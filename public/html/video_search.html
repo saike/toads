@@ -1,0 +1,27 @@
+<div class="youtube_search">
+  <form data-ng-submit="search()">
+    <table>
+      <tr>
+        <td style="width: 100%;">
+          <input type="text" data-ng-model="query"/>
+        </td>
+        <td>
+          <button class="btn btn_large btn_icon" type="submit"><i class="ion-search"></i></button>
+        </td>
+      </tr>
+    </table>
+  </form>
+  <div class="search_results">
+    <ul>
+      <li data-ng-repeat="item in items">
+        <div class="video_title t_ellps">[[ item.snippet.title ]]</div>
+        <div class="img_wrapper">
+          <img data-ng-src="[[ item.snippet.thumbnails.medium.url ]]" alt="[[ item.snippet.title ]]"/>
+        </div>
+        <div class="video_tools">
+          <div class="tools_btn video text_center" data-ng-click="insert_video(item)">SELECT</div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>

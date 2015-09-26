@@ -1,0 +1,28 @@
+@import (reference) "../core/generic";
+
+.navigator_wrapper {
+  margin: 0;
+  width: 100%;
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li {
+      cursor: pointer;
+      height: 60px;
+      a {
+        padding: 20px;
+        display: inline-block;
+        width: 100%;
+        font-size: 20px;
+        text-decoration: none;
+        color: #333333;
+        .box-sizing(border-box);
+        outline: none;
+      }
+      &:hover {
+        background-color: #e1e1e1;
+      }
+    }
+  }
+}

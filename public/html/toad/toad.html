@@ -1,0 +1,106 @@
+<div class="toad_wrapper">
+  <div data-ng-show="search_videos_show">
+  </div>
+
+
+
+  <div class="video_container" data-ng-class="{ video_search_opened: video_search, audio_search_opened: audio_search }">
+
+    <div class="video_search">
+      <video-search data-type="video"></video-search>
+    </div>
+
+    <div class="text_center video_wrapper" data-ng-mousemove="user_mouse_action()" data-ng-class="{show_video_tools: show_video_tools}">
+
+      <div class="video_overlay">
+
+        <div class="toad_maker" data-ng-class="{ opened: tools_opened }">
+          <table>
+            <tr>
+              <td class="audio">
+                <div class="content_block" data-ng-style="{ backgroundImage: get_bg_url(toad.video.pic || 'img/video_wrapper.png') }" data-ng-click="video_search = !video_search">
+                  <div class="t_ellps title" title="[[ toad.video.title ]]">[[ toad.video.title || 'VIDEO' ]]</div>
+                </div>
+              </td>
+              <td class="tools">
+                <div class="clearfix text_center">
+                  <table style="table-layout: auto;">
+                    <tr>
+                      <td>
+                        <button type="button" class="btn btn_large btn_icon transparent pull_right" data-ng-click="toggle_tools()">
+                          <i data-ng-if="!tools_opened" class="ion-arrow-down-b"></i>
+                          <i data-ng-if="tools_opened" class="ion-arrow-up-b"></i>
+                        </button>
+                      </td>
+                      <td style="width: 100%;">
+                        <span data-ng-if="toad.id" class="toad_title t_ellps">[[ toad.title ]]</span>
+                        <input data-ng-if="!toad.id" class="border_box toad_title_input" style="width: 100%;" type="text" data-ng-model="toad.title"/>
+                      </td>
+                      <td>
+                        <button style="display: block;" data-ng-show="toad.video && toad.audio && !toad.id" type="button" class="btn btn_large btn_icon success" data-ng-click="create_toad();">
+                          <i class="ion-checkmark"></i>
+                        </button>
+                      </td>
+                    </tr>
+                  </table>
+
+                </div>
+                <!--<table style="margin-top: 10px; width: 100%;">-->
+                <!--<tr>-->
+                <!--<td style="width: 20%;">-->
+                <!--<button style="display: block;" class="btn btn_large" type="button" data-ng-click="search_videos_show = !search_videos_show">-->
+                <!--SEARCH VIDEOS-->
+                <!--</button>-->
+                <!--</td>-->
+                <!--<td style="width: 60%;">-->
+                <!--<div class="toad_form">-->
+                <!--<input class="border_box" style="width: 100%;" type="text" data-ng-model="toad.title"/>-->
+                <!--</div>-->
+                <!--</td>-->
+                <!--<td>-->
+                <!--<button style="display: block;" data-ng-show="toad.video && toad.audio && !toad.id" type="button" class="btn btn_large success" data-ng-click="make_toad(); create_toad();">-->
+                <!--MAKE TOAD!-->
+                <!--</button>-->
+                <!--</td>-->
+                <!--</tr>-->
+                <!--</table>-->
+
+              </td>
+              <td class="video">
+                <div class="content_block" data-ng-style="{ backgroundImage: get_bg_url(toad.audio.pic || 'img/audio_wrapper.png') }" data-ng-click="audio_search = !audio_search">
+                  <div class="t_ellps title" title="[[ toad.audio.title ]]">[[ toad.audio.title || 'AUDIO' ]]</div>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="toad_tools clearfix">
+          <button type="button" class="btn btn_large btn_icon primary pull_left" data-ng-click="play_toad()">
+            <i class="ion-play"></i>
+          </button>
+
+          <button type="button" class="btn btn_large btn_icon pull_left" data-ng-click="stop_toad()">
+            <i class="ion-stop"></i>
+          </button>
+          <button type="button" class="btn btn_large btn_icon pull_right" data-ng-click="full_screen()">
+            <i class="ion-arrow-expand"></i>
+          </button>
+        </div>
+
+      </div>
+      <div class="toad_video" data-ng-show="toad.video.loaded && toad.audio.loaded">
+
+      </div>
+      <div class="toad_audio">
+
+      </div>
+    </div>
+
+    <div class="audio_search">
+      <video-search data-type="audio"></video-search>
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,46 @@
+<div class="profile_wrapper">
+  <div class="profile_content">
+    <table data-ng-if="user">
+      <tr>
+        <td>
+          <img class="user_pic" data-ng-src="[[ user.picture ]]" alt="profile.id"/>
+        </td>
+        <td style="vertical-align: middle;">
+          <div class="user_info">
+            <span class="t_ellps user_name">[[ user.name ]]</span> <br/>
+            <span class="t_ellps user_name">Toads: [[ user.toads_count ]]</span>
+          </div>
+        </td>
+        <td style="width: 100%;"></td>
+        <td>
+          <button type="button" class="btn btn_large btn_icon_text" data-ng-click="logout()">
+            <i class="ion-power"></i>
+            <span>LOGOUT</span>
+          </button>
+        </td>
+        <td>
+          <div class="create_btn">
+            <button type="button" class="btn btn_large success btn_icon_text" data-ng-click="create_toad()">
+              <i class="ion-plus"></i>
+              <span>CREATE</span>
+            </button>
+          </div>
+        </td>
+        <td>
+          <button class="btn btn_large primary" data-nav-toggle type="button" style="font-size: 30px; padding: 9px 20px;"><i class="ion-navicon"></i></button>
+        </td>
+      </tr>
+    </table>
+    <table data-ng-if="!user">
+      <tr>
+        <td>
+          <img class="toad_logo" src="img/jaba.jpg" alt="TOAD"/>
+        </td>
+        <td style="width: 100%;"></td>
+        <td>
+          <button type="button" class="btn btn_large primary" data-ng-click="login()">LOGIN</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

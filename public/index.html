@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <!--meta-->
+  <title>Video Toads</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!--styles-->
+  <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
+  <link rel="stylesheet" href="css/app.css"/>
+
+  <!--vendor apis-->
+  <script src="https://apis.google.com/js/client.js?onload=youtube_api_callback"></script>
+  <script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.5.0.min.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="//connect.facebook.net/en_US/sdk.js" id="facebook-jssdk"></script>
+
+  <!--vendor libs-->
+  <script src="js/vendor/angular.min.js"></script>
+  <script src="js/vendor/angular-route.min.js"></script>
+
+  <!--app-->
+  <script src="js/app/api/parse.js"></script>
+
+  <script src="js/app/config/routes.js"></script>
+
+  <!--swamp section-->
+  <script src="js/app/swamp/swamp.js"></script>
+
+  <!--toad section-->
+  <script src="js/app/toad/toad.js"></script>
+
+  <!--users section-->
+  <script src="js/app/users/users.js"></script>
+
+  <script src="js/app/videotoad.js"></script>
+
+</head>
+<body data-layout data-ng-class="{ opened: state.profile }">
+  <div class="header">
+    <profile></profile>
+  </div>
+  <div class="content">
+    <div data-ng-view class="view_wrapper"></div>
+  </div>
+  <div class="nav">
+    <navigator></navigator>
+  </div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+@import (reference) "../core/generic";
+@import (reference) "../core/mixins";
+
+.swamp_wrapper {
+
+  position: relative;
+  width: 100%;
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+  }
+
+  .toad_list {
+    position: relative;
+    margin: 75px 0px 0px 0px;
+    display: inline-block;
+    width: 100%;
+  }
+
+  .toad_item {
+    width: 20%;
+    cursor: pointer;
+    &:hover {
+      background-color: #f1f1f1;
+      .toader_info {
+        opacity: 1;
+      }
+    }
+    .toad_item_inner {
+      margin: 5%;
+    }
+    img {
+      width: 100%;
+      vertical-align: top;
+    }
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .search_btn {
+    display: block !important;
+  }
+  .search_icon {
+    width: auto;
+    display: none !important;
+  }
+
+  @media @tablet-strict, @min, @phone-strict {
+    .search_btn {
+      display: none !important;
+    }
+    .search_icon {
+      display: inline-block !important;
+    }
+  }
+
+  @media @tablet-strict {
+    .toad_item {
+      width: 50%;
+    }
+  }
+
+  @media @phone-strict, @min {
+    .toad_item {
+      width: 100%;
+    }
+  }
+
+  @media @desktop-strict {
+    .toad_item {
+      width: 33%;
+    }
+  }
+  @media @large {
+    .toad_item {
+      width: 20%;
+    }
+  }
+
+  .toad_title {
+    text-decoration: none;
+    color: #333333;
+  }
+
+  .search_wrapper {
+    position: fixed;
+    height: 75px;
+    top: 60px;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    background-color: #f2f2f2;
+    table {
+      width: 100%;
+      .box-sizing(border-box);
+      div {
+        margin: 5px;
+      }
+    }
+    input {
+      width: 100%;
+      .box-sizing(border-box);
+    }
+
+  }
+
+  .toad_thumb {
+    position: relative;
+    .toader_info {
+      opacity: 0;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 30px;
+      background-color: rgba(0,0,0,0.5);
+      text-align: left;
+      img {
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+      span {
+        vertical-align: middle;
+        line-height: 30px;
+        color: #ffffff;
+        margin-left: 4px;
+      }
+    }
+  }
+
+}

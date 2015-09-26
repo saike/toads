@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "videotoad"
+    },
+    "videotoad": {
+      "applicationId": "pOHHBHkqKmJVh8Og7zNdIqv2GJqYtp0GjFNOvpwr"
+    }
+  }
+}
